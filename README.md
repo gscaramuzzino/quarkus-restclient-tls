@@ -23,7 +23,7 @@ If you want to learn more about Microprofile, please visit its website: https://
 
 You can run your application in dev mode that enables live coding using:
 ```shell script
-ssh quarkus-service/src/main/resources/META-INF/resources/generate_server_keystore.ssh
+ssh quarkus-server/src/main/resources/META-INF/resources/generate_server_keystore.ssh
 cd quarkus-service
 ./mvnw compile quarkus:dev
 ```
