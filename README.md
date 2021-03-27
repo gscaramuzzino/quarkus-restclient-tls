@@ -11,7 +11,7 @@ Not only servers have keys and certs that the client uses to verify the identity
 
 Follow the video tutorial:
 
-[![Alt text](https://user-images.githubusercontent.com/8536722/110162186-aa6eab00-7dee-11eb-8289-bd3cf6c13a11.png)]( https://youtu.be/SaB1sESf1y8 "Click to play on Youtube.com")
+[![Alt text](https://user-images.githubusercontent.com/8536722/110162186-aa6eab00-7dee-11eb-8289-bd3cf6c13a11.png)](https://youtu.be/5eR2uMMnJN4 "Click to play on Youtube.com")
 
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
